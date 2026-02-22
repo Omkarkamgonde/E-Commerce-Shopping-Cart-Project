@@ -18,7 +18,7 @@
     ```bash
     mysql -u root -p ecommerce_cart < jsp-ecommerce/database/20210519.sql
     ```
-4.  Update database credentials in `jsp-ecommerce/src/cn/techtutorial/connection/DbCon.java` if your password is not `Deshmukhadcet@123`.
+4.  Update database credentials in `jsp-ecommerce/src/cn/techtutorial/connection/DbCon.java` if your password is not `xxxxxxxxx`.
 
 ## Running the Application
 1.  Open a terminal.
